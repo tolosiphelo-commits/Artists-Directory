@@ -2,7 +2,7 @@
 
 A minimalist and elegant public directory for verified artists, focusing on credibility and discovery.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tolosiphelo-commits/Artists-Directory)
 
 ## Table of Contents
 
@@ -116,7 +116,7 @@ bun run preview
     ```
 
     Alternatively, you can use the Cloudflare Deploy button:
-    [cloudflarebutton]
+    [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tolosiphelo-commits/Artists-Directory)
 
 ## Contributing
 
